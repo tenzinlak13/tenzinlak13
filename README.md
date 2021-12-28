@@ -1,0 +1,3 @@
+- Hello my name is Tenzin 
+- I want to learn as much as I can about programing
+- LETS GO!
